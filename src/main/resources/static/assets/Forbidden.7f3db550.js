@@ -1,0 +1,1 @@
+import{_ as o,e as t,b as n,o as c,a as s}from"./index.203b88e0.js";const r={},a={class:"container-wrap"};function _(p,d){const e=s("el-empty");return c(),t("div",a,[n(e,{description:"\u6682\u65E0\u8BE5\u4FE1\u606F"})])}const l=o(r,[["render",_]]);export{l as default};
